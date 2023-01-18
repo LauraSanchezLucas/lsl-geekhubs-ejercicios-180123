@@ -1,0 +1,14 @@
+.contenedor{
+    border: 0.3em outset rgb(203, 200, 200);
+    width: 20em;
+    
+}
+
+#reto2{
+    width: 20em;
+    border-collapse: collapse;
+}
+
+#precio{
+    text-align: center;
+}

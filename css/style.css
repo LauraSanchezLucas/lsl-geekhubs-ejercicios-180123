@@ -3,7 +3,7 @@
     width: 40em;
     
 }
-table{
+#reto1{
     width: 40em;
     border-collapse: collapse;
 }
@@ -24,3 +24,4 @@ td{
 .row{
     background-color: rgb(196, 232, 227);
 }
+
