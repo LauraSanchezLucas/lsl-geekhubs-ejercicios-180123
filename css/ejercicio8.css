@@ -1,0 +1,40 @@
+/*#contenedor-principal{
+    position: absolute;
+}*/
+#superior{
+    border: 0.1em solid blue;
+    background-color: rgb(108, 197, 242);
+    width: 20em;
+    height: 10em;
+    margin: 2em;
+}
+
+#medio{
+    border: 0.2em solid rgb(255, 0, 0);
+    background-color: rgb(108, 197, 242);
+    width: 30em;
+    height: 30em;
+    margin: 2em auto 2em 5em;
+}
+
+#inferior{
+    border: 0.1em solid blue;
+    background-color: rgb(108, 197, 242);
+    width: 20em;
+    height: 10em;
+    margin: 2em;
+}
+
+img{
+    position: absolute;
+}
+
+.nubes {
+    z-index: 1;
+}
+.personajes {
+    z-index: 1;
+}
+.bajo{
+    
+}
