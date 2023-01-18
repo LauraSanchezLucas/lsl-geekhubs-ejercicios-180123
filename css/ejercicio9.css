@@ -9,3 +9,8 @@ th,td{
 table{
     border: 0.01em solid black;
 }
+
+.centro{
+    text-align: center;
+}
+
