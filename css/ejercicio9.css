@@ -1,0 +1,11 @@
+body{
+    margin: 3em;
+}
+th,td{
+    border: 0.01em solid black;
+    text-align: left;
+}
+
+table{
+    border: 0.01em solid black;
+}
