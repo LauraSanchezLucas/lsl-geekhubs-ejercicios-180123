@@ -1,0 +1,51 @@
+
+h5{
+    text-align: center;
+    margin: 0.5em;
+}
+th{
+    border: 0.01em solid black;
+    text-align: center;
+    justify-content: center;
+    color: red;
+}
+tr{
+    width:0vw;
+    height: 0vh; 
+}
+
+.caja1{
+    border: 0.3em outset rgb(203, 200, 200);
+
+}
+.reto4{
+    border-collapse: separate;
+    width: 73em;   
+}
+
+#celda1{
+    background-color: rgb(158, 221, 158);
+    color: black;
+}
+
+#celda2{
+    background-color: rgb(74, 248, 242);
+    justify-content: center;
+    text-align: left;
+    color: black;
+}
+
+.comun-celda{
+    color: black;
+}
+
+#celda6{
+    background-color: rgb(234, 144, 236);
+    color: black;
+    text-align: end;
+    vertical-align: bottom;
+    
+}
+
+
+
