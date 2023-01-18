@@ -1,0 +1,21 @@
+
+table{
+    color: rgb(117, 34, 34);
+    text-align: center;
+    border: 0.2em outset rgb(211, 211, 190);
+}
+#verde{
+    background-color: rgb(45, 124, 45);
+}
+
+.rosa{
+    background-color: rgb(241, 207, 213);
+}
+.fondo{
+    background-image: url(../assets/dog.jpg);
+    background-size: 20%;
+    background-repeat: repeat-x;
+}
+.amarillo{
+    background-color: rgb(243, 243, 118);
+}
