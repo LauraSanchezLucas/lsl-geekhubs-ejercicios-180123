@@ -1,0 +1,33 @@
+.contenedor-1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.contenedor-2{
+    width: 26em;
+    border: 0.3em outset rgb(211, 211, 190);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.interior{
+    background-color: white;
+    border-collapse: collapse;
+    width: 26em; 
+}
+
+td{
+    border: 0.2em solid rgb(188, 184, 184);
+    text-align: center;
+    background-color: rgb(236, 236, 151);
+}
+
+th{
+    text-align: center;
+    border: 0.2em solid rgb(188, 184, 184);
+}
+
