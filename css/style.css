@@ -1,0 +1,26 @@
+.principal{
+    border: 0.3em outset rgb(203, 200, 200);
+    width: 40em;
+    
+}
+table{
+    width: 40em;
+    border-collapse: collapse;
+}
+
+th{
+    border: 0.18em solid rgb(72, 168, 187);
+    justify-content: center;
+    background-color: rgb(13, 101, 89);
+    color: white;
+
+}
+
+td{
+    background-color: rgb(143, 229, 217);
+    border: 0.18em solid rgb(72, 168, 187);
+}
+
+.row{
+    background-color: rgb(196, 232, 227);
+}
