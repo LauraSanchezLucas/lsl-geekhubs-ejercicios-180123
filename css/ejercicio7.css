@@ -1,0 +1,85 @@
+body{
+    background-image: url(../assets/ac.jpg);
+}
+.foto{
+    border: 0.01em solid black;
+    width: 10em;
+    height: 10em;
+    float: left;
+    margin: 2em;
+    text-align: center;
+    
+}
+
+#A{
+    background-image: url(../assets/back_mantel.jpg);
+}
+
+/*Este patron no consigo repetirlo sin que me respete la posicion*/
+#B{
+    background-image: url(../assets/back_mantel.jpg);
+    background-repeat:no-repeat;
+    background-size: 80%;
+    background-position: center;
+    
+}
+
+#C{  
+    background-image: url(../assets/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#D{
+    background-image: url(../assets/back_mantel.jpg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center;
+    background-color: white;
+}
+
+#E{
+    background-image: url(../assets/dh.jpg);
+    background-size: 100%;
+}
+
+#F{ 
+    background-image: url(../assets/dh.jpg);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    background-position: center;
+    background-color: white;
+}
+
+#G{
+    background-image: url(../assets/dh_2.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    background-color: white;
+
+}
+
+#H{
+    background-image: url(../assets/dh_3.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    background-color: white;
+}
+
+#I{
+    background: linear-gradient(90deg, yellow 10%, rgb(96, 96, 3) 90%);
+}
+
+#J{
+    background: linear-gradient(180deg, rgb(240, 149, 45) 10%, rgb(87, 48, 3) 90%);
+}
+
+#K{
+    background: linear-gradient(180deg, rgb(153, 247, 153) 10%, rgb(4, 68, 4) 90%);
+}
+
+#L{
+    background: linear-gradient(180deg, rgba(251, 252, 251, 0) 10%, rgb(4, 68, 4) 90%);
+}
