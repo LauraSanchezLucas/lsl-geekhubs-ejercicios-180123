@@ -8,6 +8,7 @@ body{
     float: left;
     margin: 2em;
     text-align: center;
+    padding: 1em;
     
 }
 
@@ -15,13 +16,9 @@ body{
     background-image: url(../assets/back_mantel.jpg);
 }
 
-/*Este patron no consigo repetirlo sin que me respete la posicion*/
 #B{
     background-image: url(../assets/back_mantel.jpg);
-    background-repeat:no-repeat;
-    background-size: 80%;
-    background-position: center;
-    
+    background-clip:content-box;
 }
 
 #C{  
